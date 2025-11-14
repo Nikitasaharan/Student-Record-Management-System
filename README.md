@@ -34,5 +34,5 @@ Implement a Student Record Management System using:
 ## Author
 - Name - Nikita Saharan
 - Roll No - 2401840008
-- B.Sc (H) Computer Science
+- B.Sc (H) Data Science
 - Java Lab Assignment - 4
