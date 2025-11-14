@@ -1,7 +1,5 @@
 # Student-Record-Management-System
 
-# Student Record Management System – Java (Lab Assignment 4)
-
 ## Objective
 Implement a Student Record Management System using:
 - File Handling
